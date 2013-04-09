@@ -1,0 +1,8 @@
+m
+rSloSkiApi
+mSloSkiApi/Controllers
+mSloSkiApi/Models
+mSloSkiApi/Views/Home
+mSloSkiApi/Views/Shared
+rSloSkiApi/bin
+mSloSkiApi/obj/Debug
